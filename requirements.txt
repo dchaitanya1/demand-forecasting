@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lightgbm
+prophet
+streamlit
+holidays
+python-dateutil
