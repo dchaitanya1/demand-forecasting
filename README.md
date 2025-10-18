@@ -69,10 +69,10 @@ streamlit run streamlit_app.py
 Below are sample screenshots of the interactive Streamlit forecasting dashboard:
 
 ### 🔹 Overall View
-![Dashboard Overview](screenshot2.png)
+![Dashboard Overview](images/screenshot1.png)
 
 ### 🔹 Forecasting Next 75 Days
-![Forecasting 75 Days](screenshot1.png)
+![Forecasting 75 Days](images/screenshot1.png)
 
 The dashboard allows users to:
 - Select any **Store ID**  
