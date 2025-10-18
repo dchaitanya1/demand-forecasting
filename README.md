@@ -70,7 +70,7 @@ streamlit run streamlit_app.py
 Below are sample screenshots of the interactive Streamlit forecasting dashboard:
 
 ### 🔹 Overall View
-![Dashboard Overview](images/screenshot1.png)
+![Dashboard Overview](images/screenshot2.png)
 
 ### 🔹 Forecasting Next 75 Days
 ![Forecasting 75 Days](images/screenshot1.png)
