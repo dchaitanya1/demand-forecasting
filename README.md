@@ -63,6 +63,7 @@ performs feature engineering, trains multiple models, and serves predictions via
 ```bash
 cd app
 streamlit run streamlit_app.py
+```
 
 ## 🖼️ Dashboard Preview
 
