@@ -1,4 +1,4 @@
-# 🧭 Demand Forecasting for Retail Stores (Rossmann Dataset)
+#  Demand Forecasting for Retail Stores (Rossmann Dataset)
 
 **End-to-end demand forecasting system** built to demonstrate data-engineering and applied-ML principles.  
 The project predicts future store-level sales using **LightGBM** and **Prophet**, and deploys an interactive
@@ -6,7 +6,7 @@ The project predicts future store-level sales using **LightGBM** and **Prophet**
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Retailers need accurate demand forecasts to plan inventory, staffing, and promotions.
 This project builds a complete forecasting pipeline that ingests raw sales data,
@@ -14,7 +14,7 @@ performs feature engineering, trains multiple models, and serves predictions via
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 1. **Data Ingestion**
    - Load `train.csv`, `store.csv`, and `test.csv`.
@@ -42,7 +42,7 @@ performs feature engineering, trains multiple models, and serves predictions via
    - Streamlit app visualizes historical and predicted sales per store.
    - User selects store ID and forecast horizon (7–90 days).
 
-## 📊 Key Results
+## Key Results
 
 | Model | MAE | RMSE | Notes |
 |--------|-----|------|-------|
@@ -51,7 +51,7 @@ performs feature engineering, trains multiple models, and serves predictions via
 
 *Model captures weekly cycles, promotions, and holidays effectively.*
 
-## 🖥️ Streamlit Dashboard
+##  Streamlit Dashboard
 
 **Features**
 - Select any store from sidebar  
@@ -65,7 +65,7 @@ cd app
 streamlit run streamlit_app.py
 ```
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 Below are sample screenshots of the interactive Streamlit forecasting dashboard:
 
